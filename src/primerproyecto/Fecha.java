@@ -5,7 +5,7 @@ package primerproyecto;
  * 
  * @author Hristo Prashtakov
  * @version 2.0 Version completa, correción de errores y añadido del metodo muestraFecha();
- * @since 28-05-2016
+ * @since 01-06-2016
  */
 public class Fecha {
     int year;

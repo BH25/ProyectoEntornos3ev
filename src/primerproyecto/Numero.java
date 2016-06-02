@@ -4,7 +4,7 @@ package primerproyecto;
  * 
  * @author Hristo Prashtakov
  * @version 2.0 se implementan todos los metodos posibles para la conversión de número a letra, falta unir con la clase Fecha, posible mejora de versión.
- * @since 28-05-2016
+ * @since 01-06-2016
  */
 
 public class Numero {

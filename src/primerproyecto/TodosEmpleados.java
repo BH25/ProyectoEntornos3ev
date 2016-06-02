@@ -4,7 +4,7 @@ package primerproyecto;
  *
  * @author Hristo Prashtakov 
  * @version 2.0 Version completa, todos los objetos y metodos añadidos.
- * @since 28-05-2016
+ * @since 01-06-2016
  */
 public class TodosEmpleados {
     

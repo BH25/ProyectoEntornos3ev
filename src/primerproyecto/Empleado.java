@@ -4,8 +4,8 @@ package primerproyecto;
 /**
  *
  * @author Hristo Prashtakov
- * @version 1.0 Creacion de las primeras variables  y de su constructor.
- * @since 28-05-2016
+ * @version 2.0 añadimos gets y sets
+ * @since 01-06-2016
  */
 public class Empleado {
 
@@ -32,5 +32,45 @@ public class Empleado {
         salarioBase = aSalarioBase;
    }//setSalarioBase
 
-   
+   /**
+     * @return del  nombre del empleado
+     */
+    public String getNombre() {
+        return nombre;
+    }
+
+    /**
+     * @param nombre the nombre to set
+     */
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+
+    /**
+     * @return the plus
+     */
+    public double getPlus() {
+        return plus;
+    }
+
+    /**
+     * @param plus the plus to set
+     */
+    public void setPlus(double plus) {
+        this.plus = plus;
+    }
+
+    /**
+     * @return the nHijos
+     */
+    public int getnHijos() {
+        return nHijos;
+    }
+
+    /**
+     * @param nHijos the nHijos to set
+     */
+    public void setnHijos(int nHijos) {
+        this.nHijos = nHijos;
+    }
 }//Final clase empleado
